@@ -1,31 +1,191 @@
-<h1 align="center">Hi 👋, I'm Mohammed Aslam P A</h1>
-<h3 align="center">Software Developer | Flutter & Android Enthusiast | Cybersecurity Learner | Passionate about building creative apps</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohaslam11&label=Profile%20views&color=0e75b6&style=flat" alt="mohaslam11" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:1a1a1a&text=MOHAMMED%20ASLAM%20P%20A&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Developer%20//%20AI%20%26%20Automation&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-- 🔭 I’m currently working on [Medical AI](git@github.com:mohaslam11/medical-ai.git)
+</div>
 
-- 🌱 I’m currently learning **Advanced Cybersecurity, AI Integration, Cloud-based App Development**
+<div align="center">
 
-- 👯 I’m looking to collaborate on **ERP Integration, AI Projects**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ernakulam+roots.+Dubai+desk.+Global+standards.;I+said+I+don't+like+coding+once.+I+lied.;Code+gets+you+hired.+Craft+gets+you+remembered.;Currently%3A+open+to+full-time+%2F%2F+building+in+the+meantime." alt="typing-svg" />
 
-- 🤝 I’m looking for help with **AI-powered Healthcare Applications**
+</div>
 
-- 💬 Ask me about **Flutter, Android SDK, Firebase, GetX**
+<br/>
 
-- 📫 How to reach me **mohaslam861@gmail.com**
+## ⌁ git log --oneline --graph --all
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qspy3TdysewQ-QF3wUezNLBltmgtpxBA/view?usp=drive_link](https://drive.google.com/file/d/1qspy3TdysewQ-QF3wUezNLBltmgtpxBA/view?usp=drive_link)
+```bash
+* 9f2a1c3 (HEAD -> now, dubai) job hunting hard, shipping harder in the meantime
+* e7b3d90 relocated to Dubai — chasing bigger builds, bigger standards
+* c1a44f2 Corestone Technologies — shipped in production, not just localhost
+* 5d0b871 internships: IIT Jammu · iCodeBees · Techgentsia · Irohub — broke things safely, learned fast
+* a92f0e5 M.Voc Software Application Development — CUSAT, Kochi
+* 3b1c908 BSc Computer Science — St Paul's College, Ernakulam
+* 0000000 init: born curious, stayed curious
+```
 
-- ⚡ Fun fact **I dont like coding**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohaslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohaslam" height="30" width="40" /></a>
-<a href="https://medium.com/moh_aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="moh_aslam" height="30" width="40" /></a>
-</p>
+## ⌁ terminal.log
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+```bash
+> whoami
+Software Developer & AI/Business Analyst. Kerala-built, Dubai-based.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohaslam11&show_icons=true&locale=en&layout=compact" alt="mohaslam11" /></p>
+> cat about.md
+I build Flutter apps, full-stack web products, and AI-automation
+workflows — and I actually enjoy the part where it has to work in
+production, not just in a demo.
+
+> ls ./currently
+  building/       Medical AI — an AI-assisted healthcare tool
+  learning/       advanced cybersecurity, AI agent workflows, cloud architecture
+  open_to/        full-time roles · ERP integration · AI-powered healthcare projects
+
+> cat ask_me_about.txt
+  Flutter · Android SDK · Firebase · GetX · Next.js · AI integration
+
+> cat fun_fact.txt
+  I once wrote "I don't like coding" as a bio line. That was a
+  deadline talking. I like coding. I love finishing.
+```
+
+<br/>
+
+## ⌁ stack.json
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)
+
+</div>
+
+<br/>
+
+## ⌁ featured_builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Medical AI
+Currently building — an AI-assisted tool aimed at real healthcare
+workflows, not a proof-of-concept demo.
+`AI` `Healthcare` `In Progress`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩹 Optima AI
+Lead-triage prototype blending deterministic pre-processing with
+LLM classification — WhatsApp-style, real-time decisions.
+`OpenRouter API` `JS` `System Design`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧵 Varnika Store
+Full-stack catalog build for a live Dubai retail client — product
+data, image handling, and storefront logic done end-to-end.
+`Next.js 15` `Firebase` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Sahachari
+Live on the Play Store. Not a tutorial project — a real app real
+people use.
+`Flutter` `Android` `GetX`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 DocMind
+RAG-based document intelligence system — separate frontend/backend
+architecture built for scale from day one.
+`RAG` `Full-Stack` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+### ⌚ Aether One
+Smart wearable landing page — Three.js, canvas particle effects,
+custom cursor, built from a design export into a living site.
+`Three.js` `Canvas` `CSS 3D`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**→ full case studies, live demos, and the rest of the build log:**
+[**mohammed-aslam-personal-portfolio-w.vercel.app**](https://mohammed-aslam-personal-portfolio-w.vercel.app)
+
+</div>
+
+<br/>
+
+## ⌁ activity.stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohaslam11&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&border_color=333333&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaslam11&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=333333&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohaslam11&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+
+</div>
+
+<br/>
+
+## ⌁ contribution_graph
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/mohaslam11/mohaslam11/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<!--END_SECTION:snake-->
+
+</div>
+
+<br/>
+
+## ⌁ connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/mohaslam)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mohaslam861@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://mohammed-aslam-personal-portfolio-w.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@mohaslam)
+
+</div>
+
+<div align="center">
+
+```
+> tail -f career.log
+> status: open to full-time roles, freelance builds, and anyone building something worth losing sleep over
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,100:000000&section=footer" width="100%"/>
