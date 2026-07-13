@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=I+don't+build+to+check+a+box.;I+build+things+I'd+bet+my+name+on.;Code+gets+you+hired.+Craft+gets+you+remembered.;Open+to+full-time+roles+%E2%80%94+already+building+regardless." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=I+don%27t+build+to+check+a+box.;I+build+things+I%27d+bet+my+name+on.;Code+gets+you+hired.+Craft+gets+you+remembered.;Open+to+full-time+roles+%E2%80%94+already+building+regardless." alt="typing-svg" />
 
 </div>
 
