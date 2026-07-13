@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ernakulam+roots.+Dubai+desk.+Global+standards.;I+said+I+don't+like+coding+once.+I+lied.;Code+gets+you+hired.+Craft+gets+you+remembered.;Currently%3A+open+to+full-time+%2F%2F+building+in+the+meantime." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=I+don't+build+to+check+a+box.;I+build+things+I'd+bet+my+name+on.;Code+gets+you+hired.+Craft+gets+you+remembered.;Open+to+full-time+roles+%E2%80%94+already+building+regardless." alt="typing-svg" />
 
 </div>
 
@@ -15,12 +15,12 @@
 ## ⌁ git log --oneline --graph --all
 
 ```bash
-* 9f2a1c3 (HEAD -> now, dubai) job hunting hard, shipping harder in the meantime
-* e7b3d90 relocated to Dubai — chasing bigger builds, bigger standards
-* c1a44f2 Corestone Technologies — shipped in production, not just localhost
+* 9f2a1c3 (HEAD -> now) open to what's next — building regardless
+* e7b3d90 went global — chasing bigger builds, bigger standards
+* c1a44f2 Corestone Technologies — shipped to production, not just localhost
 * 5d0b871 internships: IIT Jammu · iCodeBees · Techgentsia · Irohub — broke things safely, learned fast
-* a92f0e5 M.Voc Software Application Development — CUSAT, Kochi
-* 3b1c908 BSc Computer Science — St Paul's College, Ernakulam
+* a92f0e5 M.Voc Software Application Development — leveled up
+* 3b1c908 BSc Computer Science — foundations laid
 * 0000000 init: born curious, stayed curious
 ```
 
@@ -30,7 +30,7 @@
 
 ```bash
 > whoami
-Software Developer & AI/Business Analyst. Kerala-built, Dubai-based.
+Software Developer & AI/Business Analyst. Builder by default.
 
 > cat about.md
 I build Flutter apps, full-stack web products, and AI-automation
@@ -98,8 +98,8 @@ LLM classification — WhatsApp-style, real-time decisions.
 <td width="50%" valign="top">
 
 ### 🧵 Varnika Store
-Full-stack catalog build for a live Dubai retail client — product
-data, image handling, and storefront logic done end-to-end.
+Full-stack catalog build for a live retail client — product data,
+image handling, and storefront logic done end-to-end.
 `Next.js 15` `Firebase` `Tailwind`
 
 </td>
@@ -151,6 +151,10 @@ custom cursor, built from a design export into a living site.
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohaslam11&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohaslam11&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
